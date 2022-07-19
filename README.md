@@ -1,6 +1,6 @@
 # Facebook UI Clone
 
-Facebook UI Clone developed by using SCSS.
+Facebook UI Clone developed by using SCSS preprocessor.
 
 ### Live Preview: https://ozanakss123.github.io/facebook-ui-clone/
 
