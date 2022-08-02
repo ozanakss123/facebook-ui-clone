@@ -2,7 +2,7 @@
 
 Facebook UI Clone developed by using SCSS preprocessor.
 
-### Live Preview: https://ozanakss123.github.io/facebook-ui-clone/
+### Live Preview: https://ozanakss123.github.io/Facebook-UI-Clone/
 
 ### Fullscreen Desktop
 ![fullscreen](https://user-images.githubusercontent.com/95982700/179855102-40e029dc-bf73-46b2-8d9c-bc391d9581a9.png)
